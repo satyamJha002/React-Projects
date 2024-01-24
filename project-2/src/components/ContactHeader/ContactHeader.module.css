@@ -1,0 +1,14 @@
+.contact_section {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+.contact_section h1 {
+  color: #000;
+  font-size: 48px;
+  font-weight: 800;
+}
+
+.contact_section p {
+  color: #5a5959;
+  font-weight: 600;
+}
